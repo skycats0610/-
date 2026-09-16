@@ -1,0 +1,17 @@
+{
+  "updated": "2026-09-16",
+  "services": {
+    "zeta-ai.io": {
+      "name": "ZETA",
+      "selectors": [
+        "textarea[name='message'][aria-label='내용 입력하기']"
+      ]
+    },
+    "*.zeta-ai.io": {
+      "name": "ZETA",
+      "selectors": [
+        "textarea[name='message'][aria-label='내용 입력하기']"
+      ]
+    }
+  }
+}
